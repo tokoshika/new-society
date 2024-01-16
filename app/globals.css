@@ -7,3 +7,24 @@
   display: block;
   margin-bottom: 1rem;
 }
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.number-container {
+  border-left: 3px solid red;
+}
+
+.test {
+  margin-left: 3rem;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  background-color: white;
+}

@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function Nav() {
   return (
-    <div>
+    <div className="nav">
       <Link className="link" href="/">
         Home
       </Link>
@@ -9,8 +9,9 @@ export default function Nav() {
         About
       </Link>
       <Link className="link" href="/number">
-        About
+        Number
       </Link>
+      <hr />
     </div>
   );
 }
