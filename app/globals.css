@@ -13,6 +13,11 @@
   justify-content: center;
 }
 
+.left-container {
+  margin-right: 12rem;
+  text-align: left;
+}
+
 .number-container {
   border-left: 3px solid red;
 }
@@ -27,4 +32,13 @@
   width: 100%;
   z-index: 10;
   background-color: white;
+}
+
+span {
+  color: red;
+}
+
+.small{
+  color:black;
+  font-size: 1rem;
 }

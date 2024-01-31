@@ -1,0 +1,17 @@
+button {
+  font-size: 2rem;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.content-container {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.add-color {
+  background-color: yellow;
+}
