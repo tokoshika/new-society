@@ -38,7 +38,15 @@ span {
   color: red;
 }
 
-.small{
-  color:black;
+.small {
+  color: black;
   font-size: 1rem;
+}
+
+.home-main {
+  margin-left: 1.5rem;
+}
+
+.li {
+  font-size: 2rem;
 }
