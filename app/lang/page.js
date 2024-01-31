@@ -9,11 +9,11 @@ export default function Lang() {
   return (
     <div className="main-container">
       <div className="left-container">
-        <h1>
+        <h2>
           これだけあれば生きていける
           <br />
           中国語10選
-        </h1>
+        </h2>
         <hr />
         <h2>(1)たすけてください。</h2>
         <Button props="帮帮我" content="バンバンウォ" />
