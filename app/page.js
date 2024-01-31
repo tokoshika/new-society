@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="home-main">
       <h1>This is Home view</h1>
-      <h1>日本と中国の違い()</h1>
+      <h1>日本と中国の違い(個人的ベスト5)</h1>
       <ul
         className="
       ul"
