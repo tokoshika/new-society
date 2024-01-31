@@ -7,8 +7,10 @@ const Button = ({ props, content }) => {
   };
   return (
     <>
-      <button onClick={btnClick}>{props}</button>
-      <div className="content-container">{visible ? content : ""}</div>
+      <div className="btn-container">
+        <button onClick={btnClick}>{props}</button>
+        <div className="content-container">{visible ? content : ""}</div>
+      </div>
     </>
   );
 };
